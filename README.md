@@ -5,7 +5,7 @@ I'm Backend Software Developer / Master's Degree in Informatics/Computer Science
 I have 10 years of programming experience, mainly with Java and PHP development.
 
 #### :incoming_envelope: Contact Me
-http://linkedin.com/in/silasyudi
+https://linkedin.com/in/silasyudi
 
 #### :computer: Stack
 
