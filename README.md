@@ -1,8 +1,12 @@
 ### Hi 👋
 
-I'm Backend Software Developer / Master's Degree in Informatics/Computer Science from the Federal University of Paraíba
+###### Professional
 
-I have 10 years of programming experience, mainly with Java and PHP development.
+I'm a Senior Java and PHP developer with over 10 years of experience. I love unit testing, refactoring, code review and pair programming. I have worked as a senior developer, tech leader and scrum master. I am currently working as a Senior Java Developer. 
+
+###### Academic
+
+I'm a Master in Informatics/Computer Science from the Federal University of Paraíba.
 
 #### :incoming_envelope: Contact Me
 https://linkedin.com/in/silasyudi
@@ -13,7 +17,7 @@ https://linkedin.com/in/silasyudi
 Java 8~13, Spring, Android, PHP 7+, Symfony, Doctrine, automated tests
 
 ###### Database
-SQL, relational databases, Redis, MQ
+SQL, relational databases, MongoDB, Redis, MQ
 
 ###### Frontend
 Javascript, Angular 2+, CSS, HTML
